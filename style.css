@@ -64,7 +64,7 @@ body{
     
 }
 .header-p-alignment h1{
-    font-size: 50px;
+    font-size: 35px;
 }
 .one-third{
     width:30%;
@@ -93,6 +93,7 @@ body{
 .media-column{
     margin-left: 100px;
     padding: 10px 60px;
+  
 }
 .media-column h1{
     font-size: 40px;
