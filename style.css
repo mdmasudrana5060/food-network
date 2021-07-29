@@ -1,0 +1,117 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.flexible-container{
+    display:flex;
+}
+.half-width{
+    width:50%;
+    margin-left:20px;
+}
+.intro{
+    font-size: 30px;
+    margin-top:100px;
+}
+ span{
+    color:orange;
+}
+.intro p{
+    font-size: 25px;
+    margin-bottom:50px;
+    font-weight:normal;
+   
+}
+
+.button{
+   background-image: linear-gradient(45deg,orange,salmon);
+    padding:20px;
+    border-radius:20px;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    padding-top: 70px;
+}
+
+.img{
+    width:45%;
+    margin-left:200px;
+    
+}
+.bio{
+    margin-left:20px;
+    
+    padding:50px;
+}
+.bio p{
+    font-size: 15px;
+    margin-bottom:100px;
+    font-weight:lighter;margin-right:100px;
+    
+   
+
+}
+.header-p-alignment{
+    text-align:center;
+    margin:15px 280px;
+}
+.one-third{
+    width:30%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    margin-right:40px;
+    padding:15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+}
+.one-third img{
+    width:100%;
+}
+.media-part{
+    width:90%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    margin-right:40px;
+    padding:15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+.media-column{
+    margin-left: 100px;
+    padding: 10px 60px;
+}
+.media-column h1{
+    font-size: 40px;
+}
+footer{
+    background-color: rgb(1, 1, 20);
+    color:white;
+    margin:20px;
+    padding:20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.submit-button{
+    background-image: linear-gradient(45deg,orange,salmon);
+    padding:5px;
+    border-radius:20px;
+    text-decoration: none;
+    color:white;
+    margin-top: 5px;
+    font-size: 15px;
+    
+}
+.media-part input{
+    padding:10px;
+    margin-bottom:10px;
+}
